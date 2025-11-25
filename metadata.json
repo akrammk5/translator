@@ -1,0 +1,7 @@
+{
+  "name": "Synapse - Neural Translator",
+  "description": "Real-time bi-directional Polish-English voice translator using Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
